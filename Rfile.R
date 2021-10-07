@@ -6,3 +6,5 @@ a + b
 z <- rnorm(100)
 
 plot(z)
+
+print("Hello world!")

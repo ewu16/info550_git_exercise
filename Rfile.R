@@ -1,8 +1,8 @@
-a <- 1
-b <- 2
+a <- 3
+b <- 4
 
 a + b
 
-z <- rnorm(100)
+z <- rnorm(500, 10, 2)
 
 plot(z)
